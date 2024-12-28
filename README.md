@@ -7,4 +7,4 @@ This code represents a sophisticated affiliate marketing analysis tool that leve
 To properly run the bot, make sure to install packages in your terminal which are listed in the comments in the top of the affBOT.py file.
 Obtain a [Google Gemini API KEY](https://ai.google.dev/gemini-api/docs?_gl=1*1ydct19*_ga*MTczMDYzNTE2OS4xNzM1MzQyMjkz*_ga_P1DBVKWT6V*MTczNTM1NjI4MS4yLjEuMTczNTM1NjI4NS41Ni4wLjEyNjc1MTcwNQ..) and insert in the place where it shows "INSERT API KEY HERE" in the affBOT.py file.
 
-In the terminal, when a program executes, feed it the data (product names, a little description, and commission rates if possible). Give it 5-10 sec to analyze, and receive calculated response.
+In the terminal, when a program executes, feed it the data (product names, a little description, and commission rates if possible). Give it 5-10 sec to analyze, and you will receive calculated response.
