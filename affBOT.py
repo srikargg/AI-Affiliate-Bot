@@ -1,10 +1,16 @@
+# Install Google's Generative AI library
+# pip install google-generativeai
+
+# Install abseil-py for logging management
+# pip install absl-py
+
 import google.generativeai as genai
 import os
 import absl.logging
 import logging
 
 # Configure the API key
-GOOGLE_API_KEY = "AIzaSyDKie6S6KfB-l-SfgWs9fjwQ8zIt7x6PtA"
+GOOGLE_API_KEY = "INSERT API KEY HERE"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Add this line before configuring the API key
